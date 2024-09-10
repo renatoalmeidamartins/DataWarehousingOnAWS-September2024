@@ -1,4 +1,4 @@
-DataWarehousing on AWS course links
+ DataWarehousing on AWS course links
 
 Materials and learning content
 - Lab environment --> https://us-east-1.student.classrooms.aws.training/class/3BytfMhcadY3CQjJwUhsLP
@@ -19,4 +19,7 @@ Day 1
 - Primary key and foreign key contraints --> https://docs.aws.amazon.com/redshift/latest/dg/c_best-practices-defining-constraints.html
 - Interleaved sorting --> https://aws.amazon.com/blogs/aws/quickly-filter-data-in-amazon-redshift-using-interleaved-sorting/
 - Optimizing star schemas for interleaved sorting --> https://aws.amazon.com/blogs/big-data/optimizing-for-star-schemas-and-interleaved-sorting-on-amazon-redshift/
+- Analyze compression --> https://docs.aws.amazon.com/redshift/latest/dg/r_ANALYZE_COMPRESSION.html
+- Available compression encodings --> https://docs.aws.amazon.com/redshift/latest/dg/c_Compression_encodings.html
+- Let COPY choose the compression --> https://docs.aws.amazon.com/redshift/latest/dg/c_best-practices-use-auto-compression.html
 - 
