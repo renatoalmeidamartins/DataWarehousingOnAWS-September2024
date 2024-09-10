@@ -1,4 +1,10 @@
 DataWarehousing on AWS course links
 
-Day 1
-- Learning "repository" -> https://skillbuilder.aws/
+Materials and learning content
+Lab environment --> https://us-east-1.student.classrooms.aws.training/class/3BytfMhcadY3CQjJwUhsLP
+AWS Learning repository Learning  -> https://skillbuilder.aws/
+
+
+##Day 1
+- 
+- 
