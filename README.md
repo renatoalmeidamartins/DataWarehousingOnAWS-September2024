@@ -34,3 +34,5 @@ Day 1
  - Database migration walkthroughs --> https://docs.aws.amazon.com/dms/latest/sbs/dms-sbs-welcome.html
  - UNLOAD command (dump query output to S3) --> https://docs.aws.amazon.com/redshift/latest/dg/r_UNLOAD.html
  - Error during COPY? Check the SYS_LOAD_ERROR_DETAIL table --> https://docs.aws.amazon.com/redshift/latest/dg/SYS_LOAD_ERROR_DETAIL.html
+ - Loading encrypted data (either client or server-side encrypted) --> https://docs.aws.amazon.com/redshift/latest/dg/c_loading-encrypted-files.html
+ - Auto copy (single command incremental ETL from S3) --> https://docs.aws.amazon.com/redshift/latest/dg/loading-data-copy-job.html
