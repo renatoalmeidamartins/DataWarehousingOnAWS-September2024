@@ -22,7 +22,11 @@ Day 1
 - Analyze compression --> https://docs.aws.amazon.com/redshift/latest/dg/r_ANALYZE_COMPRESSION.html
 - Available compression encodings --> https://docs.aws.amazon.com/redshift/latest/dg/c_Compression_encodings.html
 - Let COPY choose the compression --> https://docs.aws.amazon.com/redshift/latest/dg/c_best-practices-use-auto-compression.html
-- Grant command in detail (attention to the default CREATE and USAGE permissions on the PUBLIC schema) --> https://docs.aws.amazon.com/redshift/latest/dg/r_GRANT.html
+- Grant command in detail --> https://docs.aws.amazon.com/redshift/latest/dg/r_GRANT.html
+   - attention to the default CREATE and USAGE permissions on the PUBLIC schema
+   - nesting of roles is achieved by GRANTing a ROLE to another ROLE
+   - with GRANT OPTION (allows granting the same permissions to another user/group/role)
+   - with ADMIN OPTION, with with roles, provides the admin options for the granted roles
 - System defined roles --> https://docs.aws.amazon.com/redshift/latest/dg/r_roles-default.html
 - ASSUMEROLE permission (not to confuse with the ROLE inside Redshift) --> https://docs.aws.amazon.com/redshift/latest/dg/r_GRANT-usage-notes.html#r_GRANT-usage-notes-assumerole
    - ROLE in Redshift relates to Redshift-scoped objects
