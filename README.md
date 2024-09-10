@@ -24,3 +24,6 @@ Day 1
 - Let COPY choose the compression --> https://docs.aws.amazon.com/redshift/latest/dg/c_best-practices-use-auto-compression.html
 - Grant command in detail (attention to the default CREATE and USAGE permissions on the PUBLIC schema) --> https://docs.aws.amazon.com/redshift/latest/dg/r_GRANT.html
 - System defined roles --> https://docs.aws.amazon.com/redshift/latest/dg/r_roles-default.html
+- ASSUMEROLE permission (not to confuse with the ROLE inside Redshift) --> https://docs.aws.amazon.com/redshift/latest/dg/r_GRANT-usage-notes.html#r_GRANT-usage-notes-assumerole
+   - ROLE in Redshift relates to Redshift-scoped objects
+   - ASSUMEROLE relates to IAM roles, granting permissions to services/features outside of Redshift (think an S3 bucket, a Sagemaker model)
