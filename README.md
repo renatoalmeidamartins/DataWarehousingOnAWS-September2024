@@ -31,3 +31,6 @@ Day 1
 - ASSUMEROLE permission (not to confuse with the ROLE inside Redshift) --> https://docs.aws.amazon.com/redshift/latest/dg/r_GRANT-usage-notes.html#r_GRANT-usage-notes-assumerole
    - ROLE in Redshift relates to Redshift-scoped objects
    - ASSUMEROLE relates to IAM roles, granting permissions to services/features outside of Redshift (think an S3 bucket, a Sagemaker model)
+ - Database migration walkthroughs --> https://docs.aws.amazon.com/dms/latest/sbs/dms-sbs-welcome.html
+ - UNLOAD command (dump query output to S3) --> https://docs.aws.amazon.com/redshift/latest/dg/r_UNLOAD.html
+ - Error during COPY? Check the SYS_LOAD_ERROR_DETAIL table --> https://docs.aws.amazon.com/redshift/latest/dg/SYS_LOAD_ERROR_DETAIL.html
