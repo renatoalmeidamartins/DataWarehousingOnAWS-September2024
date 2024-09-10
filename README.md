@@ -22,4 +22,4 @@ Day 1
 - Analyze compression --> https://docs.aws.amazon.com/redshift/latest/dg/r_ANALYZE_COMPRESSION.html
 - Available compression encodings --> https://docs.aws.amazon.com/redshift/latest/dg/c_Compression_encodings.html
 - Let COPY choose the compression --> https://docs.aws.amazon.com/redshift/latest/dg/c_best-practices-use-auto-compression.html
-- 
+- Grant command in detail (attention to the default CREATE and USAGE permissions on the PUBLIC schema) --> https://docs.aws.amazon.com/redshift/latest/dg/r_GRANT.html
