@@ -5,6 +5,6 @@ Lab environment --> https://us-east-1.student.classrooms.aws.training/class/3Byt
 AWS Learning repository Learning  -> https://skillbuilder.aws/
 
 
-##Day 1
+Day 1
 - 
 - 
