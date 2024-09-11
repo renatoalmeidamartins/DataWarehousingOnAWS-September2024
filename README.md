@@ -71,6 +71,9 @@ Day 2
 - Aggregation extensions (Rollup, Cube, Grouping, ...) --> https://docs.aws.amazon.com/redshift/latest/dg/r_GROUP_BY_aggregation-extensions.html
 - User-defined functions (UDF) --> https://docs.aws.amazon.com/redshift/latest/dg/user-defined-functions.html
 - Repo with sample UDFs --> https://github.com/aws-samples/amazon-redshift-udfs/blob/master/README.md
+- Multi-AZ for Redshift --> https://docs.aws.amazon.com/redshift/latest/mgmt/managing-cluster-multi-az.html
+- Restore cluster from AWS Backup --> https://docs.aws.amazon.com/aws-backup/latest/devguide/redshift-restores.html
+- Restoring cluster from CLI or Redshift console --> https://docs.aws.amazon.com/redshift/latest/mgmt/working-with-snapshot-restore-cluster-from-snapshot.html
 
 
   
