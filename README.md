@@ -54,3 +54,9 @@ Day 2
 - Materialized view concepts --> https://docs.aws.amazon.com/redshift/latest/dg/materialized-view-overview.html
 - CREATE MATERIALIZED VIEW --> https://docs.aws.amazon.com/redshift/latest/dg/materialized-view-create-sql-command.html
 - AutoMV --> https://docs.aws.amazon.com/redshift/latest/dg/materialized-view-auto-mv.html
+- DMS with Redshift as a target --> https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Target.Redshift.html
+- Fully managed Schema conversion on DMS --> https://aws.amazon.com/blogs/aws/new-a-fully-managed-schema-conversion-in-aws-database-migration-service/
+- Schema conversion tool --> https://docs.aws.amazon.com/SchemaConversionTool/latest/userguide/CHAP_Welcome.html
+- Using DMS for ongoing replicaton from RDS --> https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Task.CDC.html
+- COPY command copying from SSH --> https://docs.aws.amazon.com/redshift/latest/dg/copy-parameters-data-source-ssh.html
+- EMR step-by-step pre-reqs to load data into Redshift --> https://docs.aws.amazon.com/redshift/latest/dg/loading-data-from-emr.html
