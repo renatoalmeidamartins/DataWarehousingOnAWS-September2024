@@ -74,6 +74,26 @@ Day 2
 - Multi-AZ for Redshift --> https://docs.aws.amazon.com/redshift/latest/mgmt/managing-cluster-multi-az.html
 - Restore cluster from AWS Backup --> https://docs.aws.amazon.com/aws-backup/latest/devguide/redshift-restores.html
 - Restoring cluster from CLI or Redshift console --> https://docs.aws.amazon.com/redshift/latest/mgmt/working-with-snapshot-restore-cluster-from-snapshot.html
+- Cluster relocation feature --> https://docs.aws.amazon.com/redshift/latest/mgmt/managing-cluster-recovery.html
+- Snapshots --> https://docs.aws.amazon.com/redshift/latest/mgmt/working-with-snapshots.html
+- VACUUM tables --> https://docs.aws.amazon.com/redshift/latest/dg/t_Reclaiming_storage_space202.html
+- Analyze (updating statistics) --> https://docs.aws.amazon.com/en_us/redshift/latest/dg/r_ANALYZE.html
+- EXPLAIN operators --> https://docs.aws.amazon.com/redshift/latest/dg/r_EXPLAIN.html
+- DAta redistribution operators shown on EXPLAIN --> https://docs.aws.amazon.com/redshift/latest/dg/c_data_redistribution.html
+- Query alerts --> https://docs.aws.amazon.com/redshift/latest/dg/c-reviewing-query-alerts.html
+- AutoWLM paper --> https://assets.amazon.science/5a/9d/338478254f9a9dde672fa84da2b7/auto-wlm-machine-learning-enhanced-workload-management-in-amazon-redshif.pdf
+- Concurrency scaling --> https://docs.aws.amazon.com/redshift/latest/dg/concurrency-scaling-queues.html
+- Working with concurrency scaling --> https://docs.aws.amazon.com/redshift/latest/dg/concurrency-scaling.html
+- Queue assignment rules --> https://docs.aws.amazon.com/redshift/latest/dg/cm-c-wlm-queue-assignment-rules.html
+- Short Query Acceleration --> https://docs.aws.amazon.com/redshift/latest/dg/wlm-short-query-acceleration.html
+- Query monitoring rules (deciding if a query going over a certain metric threshold, should be aborted, logged, hopped, ...) --> https://docs.aws.amazon.com/redshift/latest/dg/cm-c-wlm-query-monitoring-rules.html
+- Redshift Advisor recommendations --> https://docs.aws.amazon.com/redshift/latest/dg/advisor-recommendations.html
+- Cluster resize --> https://docs.aws.amazon.com/redshift/latest/mgmt/resizing-cluster.html
+- Redshift metrics --> https://docs.aws.amazon.com/redshift/latest/mgmt/metrics-listing.html
+- STL views for logging --> https://docs.aws.amazon.com/redshift/latest/dg/c_intro_STL_tables.html
+- SYS views --> https://docs.aws.amazon.com/redshift/latest/dg/sys_view_migration.html
+- Event notifications for provisioned clusters --> https://docs.aws.amazon.com/redshift/latest/mgmt/event-subscribe.html
+
 
 
   
