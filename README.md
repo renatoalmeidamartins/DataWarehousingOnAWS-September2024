@@ -40,3 +40,7 @@ Day 1
    - Hitchiker's guide to the data lake --> https://azure.github.io/Storage/docs/analytics/hitchhikers-guide-to-the-datalake/
    - Medallion architecture --> https://www.databricks.com/glossary/medallion-architecture
   - MERGE (does UPSERTs) --> https://docs.aws.amazon.com/redshift/latest/dg/r_MERGE.html
+
+Day 2
+- EMRFS (HDFS backed by S3) --> https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-fs.html
+- Good practices for loading data (file sizes, using copy, doing bulk or multi-row inserts, ...) --> https://docs.aws.amazon.com/redshift/latest/dg/c_loading-data-best-practices.html
