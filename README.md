@@ -60,3 +60,9 @@ Day 2
 - Using DMS for ongoing replicaton from RDS --> https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Task.CDC.html
 - COPY command copying from SSH --> https://docs.aws.amazon.com/redshift/latest/dg/copy-parameters-data-source-ssh.html
 - EMR step-by-step pre-reqs to load data into Redshift --> https://docs.aws.amazon.com/redshift/latest/dg/loading-data-from-emr.html
+- Connecting using Query Editor V2 --> https://docs.aws.amazon.com/redshift/latest/mgmt/query-editor-v2-connecting.html
+- Scheduled queries --> https://docs.aws.amazon.com/redshift/latest/mgmt/query-editor-v2-schedule-query.html
+- Shared queries --> https://docs.aws.amazon.com/redshift/latest/mgmt/query-editor-v2-query-share.html
+- Querying the Glue catalog --> https://docs.aws.amazon.com/redshift/latest/mgmt/query-editor-v2-glue.html
+- Custom crawlers in Glue (to support customer-specific file structures in S3)  --> https://docs.aws.amazon.com/glue/latest/dg/custom-classifier.html
+- 
