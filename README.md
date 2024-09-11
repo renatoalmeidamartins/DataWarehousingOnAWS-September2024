@@ -36,3 +36,7 @@ Day 1
  - Error during COPY? Check the SYS_LOAD_ERROR_DETAIL table --> https://docs.aws.amazon.com/redshift/latest/dg/SYS_LOAD_ERROR_DETAIL.html
  - Loading encrypted data (either client or server-side encrypted) --> https://docs.aws.amazon.com/redshift/latest/dg/c_loading-encrypted-files.html
  - Auto copy (single command incremental ETL from S3) --> https://docs.aws.amazon.com/redshift/latest/dg/loading-data-copy-job.html
+ - Some data lake "architectures" regarding the level of aggregation:
+   - Hitchiker's guide to the data lake --> https://azure.github.io/Storage/docs/analytics/hitchhikers-guide-to-the-datalake/
+   - Medallion architecture --> https://www.databricks.com/glossary/medallion-architecture
+  - MERGE (does UPSERTs) --> https://docs.aws.amazon.com/redshift/latest/dg/r_MERGE.html
