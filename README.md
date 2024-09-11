@@ -65,4 +65,12 @@ Day 2
 - Shared queries --> https://docs.aws.amazon.com/redshift/latest/mgmt/query-editor-v2-query-share.html
 - Querying the Glue catalog --> https://docs.aws.amazon.com/redshift/latest/mgmt/query-editor-v2-glue.html
 - Custom crawlers in Glue (to support customer-specific file structures in S3)  --> https://docs.aws.amazon.com/glue/latest/dg/custom-classifier.html
-- 
+- Auto-refreshing of materialized views --> https://docs.aws.amazon.com/redshift/latest/dg/materialized-view-refresh.html#materialized-view-auto-refresh
+- Stored procedures --> https://docs.aws.amazon.com/redshift/latest/dg/stored-procedure-overview.html
+- pgSQL commands supported for Stored Procedures on Redshift --> https://docs.aws.amazon.com/redshift/latest/dg/c_PLpgSQL-statements.html
+- Aggregation extensions (Rollup, Cube, Grouping, ...) --> https://docs.aws.amazon.com/redshift/latest/dg/r_GROUP_BY_aggregation-extensions.html
+- User-defined functions (UDF) --> https://docs.aws.amazon.com/redshift/latest/dg/user-defined-functions.html
+- Repo with sample UDFs --> https://github.com/aws-samples/amazon-redshift-udfs/blob/master/README.md
+
+
+  
