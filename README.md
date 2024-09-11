@@ -44,3 +44,13 @@ Day 1
 Day 2
 - EMRFS (HDFS backed by S3) --> https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-fs.html
 - Good practices for loading data (file sizes, using copy, doing bulk or multi-row inserts, ...) --> https://docs.aws.amazon.com/redshift/latest/dg/c_loading-data-best-practices.html
+- Zero-ETL integrations --> https://docs.aws.amazon.com/redshift/latest/mgmt/zero-etl-using.html
+- Zero-ETL setup walkthrough --> https://aws.amazon.com/blogs/big-data/getting-started-guide-for-near-real-time-operational-analytics-using-amazon-aurora-zero-etl-integration-with-amazon-redshift/
+- Kinesis Firehose now supports zero-buffer --> https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-kinesis-data-firehose-zero-buffering/
+- Kinesis Flink applications --> https://aws.amazon.com/blogs/big-data/get-started-with-flink-sql-apis-in-amazon-kinesis-data-analytics-studio/
+- CREATE EXTERNAL SCHEMA (multiple sources available - Kinesis, MSK, Postgres, ...) --> https://docs.aws.amazon.com/redshift/latest/dg/r_CREATE_EXTERNAL_SCHEMA.html
+- Step-by-step Redshift Spectrum configuration --> https://docs.aws.amazon.com/redshift/latest/dg/c-getting-started-using-spectrum.html#c-getting-started-using-spectrum-create-external-table
+- Streaming ingestion into Redshift --> https://docs.aws.amazon.com/redshift/latest/dg/materialized-view-streaming-ingestion.html
+- Materialized view concepts --> https://docs.aws.amazon.com/redshift/latest/dg/materialized-view-overview.html
+- CREATE MATERIALIZED VIEW --> https://docs.aws.amazon.com/redshift/latest/dg/materialized-view-create-sql-command.html
+- AutoMV --> https://docs.aws.amazon.com/redshift/latest/dg/materialized-view-auto-mv.html
