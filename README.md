@@ -111,6 +111,12 @@ Day 3
 -  ETL workflow using Managed Airflow --> https://aws.amazon.com/blogs/big-data/orchestrate-an-end-to-end-etl-pipeline-using-amazon-s3-aws-glue-and-amazon-redshift-serverless-with-amazon-mwaa/
 -  Airflow architecture --> https://airflow.apache.org/docs/apache-airflow/stable/core-concepts/overview.html
 -  Sagemaker built-in algorithms --> https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html
+-  Sagemaker autopilot --> https://docs.aws.amazon.com/sagemaker/latest/dg/autopilot-automate-model-development.html
+-  CREATE MODEL --> https://docs.aws.amazon.com/redshift/latest/dg/r_CREATE_MODEL.html
+-  Data management at scale book --> https://www.amazon.com/Data-Management-Scale-Modern-Architecture-dp-1098138864/
+- Cost control with data shares --> https://docs.aws.amazon.com/redshift/latest/dg/cross-region-billing.html
+- Using blueprints with datazone --> https://docs.aws.amazon.com/datazone/latest/userguide/enable-default-blueprint.html
+- 
 
 
 
