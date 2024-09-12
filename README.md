@@ -94,6 +94,15 @@ Day 2
 - SYS views --> https://docs.aws.amazon.com/redshift/latest/dg/sys_view_migration.html
 - Event notifications for provisioned clusters --> https://docs.aws.amazon.com/redshift/latest/mgmt/event-subscribe.html
 
+Day 3
+- Setting up an OIDC IdP --> https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_providers_create_oidc.html#:~:text=You%20use%20an%20IAM%20OIDC%20identity%20provider%20when
+- Temporary credentials --> https://docs.aws.amazon.com/redshift/latest/mgmt/generating-iam-credentials-steps.html
+- Federated querying setup --> https://docs.aws.amazon.com/redshift/latest/dg/federated-overview.html
+- Get session token (maximum session duration is 36 hours, defaulting to 12 hours) --> https://docs.aws.amazon.com/cli/latest/reference/sts/get-session-token.html
+- Assume role (maximum role session duration is 12 hours) --> https://docs.aws.amazon.com/cli/latest/reference/sts/assume-role.html
+- Row-Level security --> https://aws.amazon.com/blogs/big-data/achieve-fine-grained-data-security-with-row-level-access-control-in-amazon-redshift/
+-  
+
 
 
   
