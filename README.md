@@ -122,6 +122,7 @@ Day 3
 -  Data management at scale book --> https://www.amazon.com/Data-Management-Scale-Modern-Architecture-dp-1098138864/
 - Cost control with data shares --> https://docs.aws.amazon.com/redshift/latest/dg/cross-region-billing.html
 - Using blueprints with datazone --> https://docs.aws.amazon.com/datazone/latest/userguide/enable-default-blueprint.html
+- Quickstart datazone with Redshift --> https://docs.aws.amazon.com/datazone/latest/userguide/quickstart-rs.html
 
 
 
