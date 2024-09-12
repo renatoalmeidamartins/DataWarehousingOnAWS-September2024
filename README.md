@@ -101,7 +101,10 @@ Day 3
 - Get session token (maximum session duration is 36 hours, defaulting to 12 hours) --> https://docs.aws.amazon.com/cli/latest/reference/sts/get-session-token.html
 - Assume role (maximum role session duration is 12 hours) --> https://docs.aws.amazon.com/cli/latest/reference/sts/assume-role.html
 - Row-Level security --> https://aws.amazon.com/blogs/big-data/achieve-fine-grained-data-security-with-row-level-access-control-in-amazon-redshift/
--  
+-  Dynamic data masking --> https://docs.aws.amazon.com/redshift/latest/dg/t_ddm.html
+-  One example of using config to monitor and (optionally) remediate compliance --> https://docs.aws.amazon.com/config/latest/developerguide/redshift-require-tls-ssl.html
+-  Amazon State Language (used in Step Functions) --> https://docs.aws.amazon.com/step-functions/latest/dg/concepts-amazon-states-language.html
+-  State Functions Tasks --> https://docs.aws.amazon.com/step-functions/latest/dg/state-task.html
 
 
 
