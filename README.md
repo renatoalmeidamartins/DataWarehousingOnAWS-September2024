@@ -103,8 +103,14 @@ Day 3
 - Row-Level security --> https://aws.amazon.com/blogs/big-data/achieve-fine-grained-data-security-with-row-level-access-control-in-amazon-redshift/
 -  Dynamic data masking --> https://docs.aws.amazon.com/redshift/latest/dg/t_ddm.html
 -  One example of using config to monitor and (optionally) remediate compliance --> https://docs.aws.amazon.com/config/latest/developerguide/redshift-require-tls-ssl.html
+-  When turning on auditing in a cluster, keep in mind that "For the user activity log, you must also enable the enable_user_activity_logging database parameter"
 -  Amazon State Language (used in Step Functions) --> https://docs.aws.amazon.com/step-functions/latest/dg/concepts-amazon-states-language.html
 -  State Functions Tasks --> https://docs.aws.amazon.com/step-functions/latest/dg/state-task.html
+-  End-to-end workflow with step functions --> https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/orchestrate-an-etl-pipeline-with-validation-transformation-and-partitioning-using-aws-step-functions.html
+-  Using dbt for ETL --> https://aws.amazon.com/blogs/big-data/implement-data-warehousing-solution-using-dbt-on-amazon-redshift/
+-  ETL workflow using Managed Airflow --> https://aws.amazon.com/blogs/big-data/orchestrate-an-end-to-end-etl-pipeline-using-amazon-s3-aws-glue-and-amazon-redshift-serverless-with-amazon-mwaa/
+-  Airflow architecture --> https://airflow.apache.org/docs/apache-airflow/stable/core-concepts/overview.html
+-  Sagemaker built-in algorithms --> https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html
 
 
 
