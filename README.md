@@ -4,6 +4,8 @@ Materials and learning content
 - Lab environment --> https://us-east-1.student.classrooms.aws.training/class/3BytfMhcadY3CQjJwUhsLP
 - AWS Learning repository Learning  -> https://skillbuilder.aws/
 
+Course evaluation form 
+https://aws.training/Account/Transcript/Current
 
 Day 1
 - Sagemaker Serverless --> https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-sagemaker-serverless-inference/
